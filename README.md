@@ -56,14 +56,14 @@ gabriel.moreirasilvaa@gmail.com
 
 # Projetos
 
-## {skeleton-api}
+## [{skeleton-api}](https://github.com/Gabriel-MR/skeleton-api)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
 
 
-## {skeleton-front-end}
+## [{skeleton-front-end}](https://github.com/Gabriel-MR/skeleton-front-end)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -71,14 +71,14 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 O projeto tem como objetivo ser um esqueleto para agilizar o processo de desenvolvimento web, oferecendo um esqueleto básico e responsivo para a criação de sites. Com uma estrutura simples e flexível, este projeto fornece os fundamentos essenciais em HTML, CSS e JavaScript, permitindo que desenvolvedores comecem rapidamente a construir e personalizar seus próprios sites. Faça forks deste repositório para iniciar novos projetos de desenvolvimento web com facilidade e eficiência.
 
 
-## {otica}
+## [{otica}](https://github.com/Gabriel-MR/otica)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Tkinter
 
 O projeto é uma aplicação desenvolvida em Python utilizando a biblioteca Tkinter para criar uma interface gráfica. A aplicação tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 
-## {data-solver-front-end}
+## [{data-solver-front-end}](https://github.com/Gabriel-MR/data-solver-front-end)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -88,7 +88,7 @@ O projeto é um site responsivo desenvolvido em HTML, CSS e JavaScript para a Da
 O projeto é hospedado e implementado no Netlify, que oferece escalabilidade, confiabilidade e integração contínua.
 
 
-## {chat-front-end}
+## [{chat-front-end](https://github.com/Gabriel-MR/chat-front-end)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -96,7 +96,7 @@ O projeto é hospedado e implementado no Netlify, que oferece escalabilidade, co
 Projeto tem como objetivo
 
 
-## {chat-back-end}
+## [{chat-back-end}](https://github.com/Gabriel-MR/chat-back-end)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -109,14 +109,14 @@ Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciê
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
 
-### {api-football}
+### [{api-football}](https://github.com/Gabriel-MR/api-football)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Load dos dados em .json para o Google Cloud Storage e posteriormente para o Google Cloud Bigquery via tabela externa; Transform dos dados via dbt (projeto: {dbt-football}).
 
 
-### {dbt-football}
+### [{dbt-football}](https://github.com/Gabriel-MR/dbt-football)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
@@ -124,7 +124,7 @@ O projeto tem como objetivo o uso do dbt:  Transform dos dados do projeto {api-f
 Armazenar de forma segura as consultas utilizadas na criação de dws e data marts.
 
 
-### {fixture-forecast}
+### [{fixture-forecast}](https://github.com/Gabriel-MR/fixture-forecast)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
