@@ -85,13 +85,7 @@ O projeto é uma aplicação desenvolvida em Python utilizando a biblioteca Tkin
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c2b5ea8c-6512-42bf-91e0-fcac23542161/deploy-status)](https://app.netlify.com/sites/datasolver/deploys)
 
 O projeto é um site responsivo desenvolvido em HTML, CSS e JavaScript para a Data Solver, projetado para oferecer uma experiência de usuário fluida. Com um layout moderno e responsivo, o site proporciona uma navegação intuitiva e conteúdo dinâmico para os usuários/clientes.
-
-
-## {data-solver-back-end}
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-O projeto tem como objetivo ser uma aplicação em Python utilizando o framework Flask. Ele serve como o componente de back-end para o site {data-solver-front-end}. Sua principal função é armazenar as informações, formulários preenchidos pelos usuários no front-end, no banco de dados.
+O projeto é hospedado e implementado no Netlify, que oferece escalabilidade, confiabilidade e integração contínua.
 
 
 ## {chat-front-end}
