@@ -26,6 +26,7 @@ www.kibum.com.br/emoji
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify Status](https://api.netlify.com/api/v1/badges/c2b5ea8c-6512-42bf-91e0-fcac23542161/deploy-status)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -81,6 +82,7 @@ O projeto é uma aplicação desenvolvida em Python utilizando a biblioteca Tkin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2b5ea8c-6512-42bf-91e0-fcac23542161/deploy-status)](https://app.netlify.com/sites/datasolver/deploys)
 
 O projeto é um site responsivo desenvolvido em HTML, CSS e JavaScript para a Data Solver, projetado para oferecer uma experiência de usuário fluida. Com um layout moderno e responsivo, o site proporciona uma navegação intuitiva e conteúdo dinâmico para os usuários/clientes.
 
