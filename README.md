@@ -78,22 +78,6 @@ O projeto é um site responsivo desenvolvido em HTML, CSS e JavaScript para a Da
 O projeto é hospedado e implementado no Netlify, que oferece escalabilidade, confiabilidade e integração contínua.
 
 
-## [{chat-front-end](https://github.com/Gabriel-MR/chat-front-end)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-Projeto tem como objetivo
-
-
-## [{chat-back-end}](https://github.com/Gabriel-MR/chat-back-end)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-Projeto tem como objetivo
-
-
 ## Trabalho de Conclusão de Curso
 Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciência de Dados e Inteligência Artificial.
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.
