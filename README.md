@@ -53,12 +53,14 @@ __gabrielmoreira
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
 
 
-## [{skeleton-front-end}](https://github.com/Gabriel-MR/skeleton-front-end)
+## [{skeleton-web}](https://github.com/Gabriel-MR/skeleton-web)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-O projeto tem como objetivo ser um esqueleto para agilizar o processo de desenvolvimento web, oferecendo um esqueleto básico e responsivo para a criação de sites. Com uma estrutura simples e flexível, este projeto fornece os fundamentos essenciais em HTML, CSS e JavaScript, permitindo que desenvolvedores comecem rapidamente a construir e personalizar seus próprios sites. Faça forks deste repositório para iniciar novos projetos de desenvolvimento web com facilidade e eficiência.
+O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
 
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
@@ -66,16 +68,6 @@ O projeto tem como objetivo ser um esqueleto para agilizar o processo de desenvo
 Tkinter
 
 O projeto é uma aplicação desenvolvida em Python utilizando a biblioteca Tkinter para criar uma interface gráfica. A aplicação tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
-
-
-## [{data-solver-front-end}](https://github.com/Gabriel-MR/data-solver-front-end)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c2b5ea8c-6512-42bf-91e0-fcac23542161/deploy-status)](https://app.netlify.com/sites/datasolver/deploys)
-
-O projeto é um site responsivo desenvolvido em HTML, CSS e JavaScript para a Data Solver, projetado para oferecer uma experiência de usuário fluida. Com um layout moderno e responsivo, o site proporciona uma navegação intuitiva e conteúdo dinâmico para os usuários/clientes.
-O projeto é hospedado e implementado no Netlify, que oferece escalabilidade, confiabilidade e integração contínua.
 
 
 ## Trabalho de Conclusão de Curso
