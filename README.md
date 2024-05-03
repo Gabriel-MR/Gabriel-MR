@@ -62,6 +62,7 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
+O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
 
 ## [{chat-gpt}](https://github.com/Gabriel-MR/chat-gpt)
