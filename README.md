@@ -45,7 +45,7 @@ __gabrielmoreira
 
 # Projetos
 
-## [{skeleton-api}](https://github.com/Gabriel-MR/skeleton-api)
+## [{skeleton_api}](https://github.com/Gabriel-MR/skeleton-api)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -53,7 +53,7 @@ __gabrielmoreira
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
 
 
-## [{skeleton-web}](https://github.com/Gabriel-MR/skeleton-web)
+## [{skeleton_web}](https://github.com/Gabriel-MR/skeleton-web)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,7 +65,7 @@ O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, p
 O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
 
-## [{chat-gpt}](https://github.com/Gabriel-MR/chat-gpt)
+## [{chat_gpt}](https://github.com/Gabriel-MR/chat-gpt)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -77,7 +77,7 @@ O Skeleton possui uma página principal, index, que inclui um formulário acess�
 O projeto tem como objetivo...
 
 
-## [{airflow-midas}](https://github.com/Gabriel-MR/airflow)
+## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -97,24 +97,24 @@ Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciê
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
 
-### [{api-football}](https://github.com/Gabriel-MR/api-football)
+### [{api_football}](https://github.com/Gabriel-MR/api-football)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Load dos dados em .json para o Google Cloud Storage e posteriormente para o Google Cloud Bigquery via tabela externa; Transform dos dados via dbt (projeto: {dbt-football}).
+O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Load dos dados em .json para o Google Cloud Storage e posteriormente para o Google Cloud Bigquery via tabela externa; Transform dos dados via dbt (projeto: {dbt_football}).
 
 
-### [{dbt-football}](https://github.com/Gabriel-MR/dbt-football)
+### [{dbt_football}](https://github.com/Gabriel-MR/dbt-football)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-O projeto tem como objetivo o uso do dbt:  Transform dos dados do projeto {api-football};
+O projeto tem como objetivo o uso do dbt:  Transform dos dados do projeto {api_football};
 Armazenar de forma segura as consultas utilizadas na criação de dws e data marts.
 
 
-### [{fixture-forecast}](https://github.com/Gabriel-MR/fixture-forecast)
+### [{fixture_forecast}](https://github.com/Gabriel-MR/fixture-forecast)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -122,5 +122,5 @@ Armazenar de forma segura as consultas utilizadas na criação de dws e data mar
 Pycaret
 
 O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.
-Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
+Integração entre os projetos {api_football}, {dbt_football}, {fixture_forecast}.
 
