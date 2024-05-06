@@ -74,7 +74,7 @@ O Skeleton possui uma página principal, index, que inclui um formulário acess�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-O projeto tem como objetivo...
+O projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
 
 
 ## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
