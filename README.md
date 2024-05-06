@@ -81,7 +81,7 @@ O projeto tem como objetivo...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-O projeto tem como objetivo...
+O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
 
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
