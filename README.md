@@ -80,6 +80,7 @@ O projeto tem como objetivo...
 ## [{airflow}](https://github.com/Gabriel-MR/airflow)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
 
