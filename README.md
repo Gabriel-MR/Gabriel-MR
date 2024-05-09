@@ -106,11 +106,17 @@ O projeto tem como objetivo criar uma interface de chat utilizando o Flask, que 
 O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
 
 
+## [{playground_python}](https://github.com/Gabriel-MR/playground_python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+O projeto tem como objetivo...
+
+
 ## [{otica}](https://github.com/Gabriel-MR/otica)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Tkinter
 
-O projeto é uma aplicação desenvolvida em Python utilizando a biblioteca Tkinter para criar uma interface gráfica. A aplicação tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
+O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 
 ## Trabalho de Conclusão de Curso
