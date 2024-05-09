@@ -124,13 +124,16 @@ O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, o
 ## [{playground_utils}](https://github.com/Gabriel-MR/playground_utils)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+git-flow
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-google-sdk
+google-cloud-sdk
 ssh
 brew
+zsh
+vim
 
-O projeto tem como objetivo...
+O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
