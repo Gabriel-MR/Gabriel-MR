@@ -136,6 +136,12 @@ vim
 O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 
+## [{playground_sql}](https://github.com/Gabriel-MR/playground_sql)
+SQL
+
+O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes funções em SQl.
+
+
 ## [{otica}](https://github.com/Gabriel-MR/otica)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Tkinter
