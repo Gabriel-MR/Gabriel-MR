@@ -110,7 +110,7 @@ O projeto tem como objetivo criar uma interface de chat utilizando o Flask, que 
 O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
 
 
-## [{playground}](https://github.com/Gabriel-MR/playground_python)
+## [{playground}](https://github.com/Gabriel-MR/playground)
 **Python**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
