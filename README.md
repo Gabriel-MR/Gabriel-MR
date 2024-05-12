@@ -111,7 +111,7 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 
 
 ## [{playground}](https://github.com/Gabriel-MR/playground)
-**Python**
+**Python**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
@@ -119,7 +119,9 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 Apache Beam
 Pycaret
 
-**Utils**
+O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
+
+**Utils**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 git-flow
@@ -131,12 +133,12 @@ brew
 zsh
 vim
 
-**SQL**
+O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
+
+**SQL**<br>
 sql
 
-Python: O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
-Utils: O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
-SQL: O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes funções em SQl.
+O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes funções em SQl.
 
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
