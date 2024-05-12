@@ -148,13 +148,13 @@ Tkinter
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 
-## Trabalho de Conclusão de Curso
-### Engenharia de Computação - Instituto Mauá de Tecnologia
+# Trabalho de Conclusão de Curso
+## Engenharia de Computação - Instituto Mauá de Tecnologia
 Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciência de Dados e Inteligência Artificial.
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
 
-### [{api_football}](https://github.com/Gabriel-MR/api-football)
+## [{api_football}](https://github.com/Gabriel-MR/api-football)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
@@ -163,7 +163,7 @@ Para isso, utilizamos uma API para coletar dados históricos das partidas, os qu
 O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Load dos dados em .json para o Google Cloud Storage e posteriormente para o Google Cloud Bigquery via tabela externa; Transform dos dados via dbt (projeto: {dbt_football}).
 
 
-### [{dbt_football}](https://github.com/Gabriel-MR/dbt-football)
+## [{dbt_football}](https://github.com/Gabriel-MR/dbt-football)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -172,7 +172,7 @@ O projeto tem como objetivo o uso do dbt:  Transform dos dados do projeto {api_f
 Armazenar de forma segura as consultas utilizadas na criação de dws e data marts.
 
 
-### [{fixture_forecast}](https://github.com/Gabriel-MR/fixture-forecast)
+## [{fixture_forecast}](https://github.com/Gabriel-MR/fixture-forecast)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
