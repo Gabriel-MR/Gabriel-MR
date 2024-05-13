@@ -138,7 +138,7 @@ O projeto tem como objetivo ser uma fonte centralizada de conhecimento em format
 **SQL**<br>
 sql
 
-O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes funções em SQl.
+O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
