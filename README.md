@@ -120,7 +120,7 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 Apache Beam
 Pycaret
 
-O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
+O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
 
 **Utils**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -134,18 +134,18 @@ brew
 zsh
 vim
 
-O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
+O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 **SQL**<br>
 sql
 
-O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
+O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
 **Clouds**<br>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-O projeto tem como objetivo ser um ambiente de estudo e experimentação com as plataformas de computação em nuvem Google Cloud Platform (GCP) e Amazon Web Services (AWS), e adquirir habilidades práticas e teóricas em serviços de cloud, incluindo infraestrutura, serviços gerenciados, segurança, e boas práticas de DataOps.
+O sub projeto tem como objetivo ser um ambiente de estudo e experimentação com as plataformas de computação em nuvem Google Cloud Platform (GCP) e Amazon Web Services (AWS), e adquirir habilidades práticas e teóricas em serviços de cloud, incluindo infraestrutura, serviços gerenciados, segurança, e boas práticas de DataOps.
 
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
