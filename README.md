@@ -108,6 +108,7 @@ O projeto tem como objetivo criar uma interface de chat utilizando o Flask, que 
 
 ## [{rag}](https://github.com/Gabriel-MR/rag)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+Embedding
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ChromaDB
 
