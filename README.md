@@ -24,6 +24,7 @@ www.kibum.com.br/emoji
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ChromaDB
 
 **Hosting/SaaS**<br>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -101,6 +102,14 @@ O Skeleton possui uma página principal, index, que inclui um formulário acess�
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 O projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
+
+
+## [{rag}](https://github.com/Gabriel-MR/rag)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ChromaDB
+
+O projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
 
 ## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
