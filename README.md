@@ -38,6 +38,7 @@ ChromaDB
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 Embedding
 LangChain
+Pandasai
 
 **Machine Learning**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -132,6 +133,7 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 Apache Beam
 Pycaret
+Pandasai
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
 
