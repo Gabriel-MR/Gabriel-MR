@@ -162,6 +162,9 @@ O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizad
 
 O sub projeto tem como objetivo ser um ambiente de estudo e experimentação com as plataformas de computação em nuvem Google Cloud Platform (GCP) e Amazon Web Services (AWS), e adquirir habilidades práticas e teóricas em serviços de cloud, incluindo infraestrutura, serviços gerenciados, segurança, e boas práticas de DataOps.
 
+**Engenharia Dados**
+O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
+
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
