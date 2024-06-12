@@ -134,6 +134,9 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 Apache Beam
 Pycaret
 Pandasai
+Pandasql
+Unnitest
+Geral
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
 
