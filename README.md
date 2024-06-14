@@ -94,7 +94,7 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
 O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
-## [{nlp_llm_ml}](https://github.com/Gabriel-MR/nlp-llm-ml)
+## [{nlp_llm_ml}](https://github.com/Gabriel-MR/nlp_llm_ml)
 
 ### {chat_gpt}
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -106,7 +106,7 @@ LangChain
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-O projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
+O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
 
 
 ### {rag}
@@ -115,7 +115,7 @@ Embedding
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ChromaDB
 
-O projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
+O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
 ### {Colabs}
 
@@ -131,7 +131,7 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 
 
 ## [{playground}](https://github.com/Gabriel-MR/playground)
-**Python**<br>
+### {python}
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
@@ -145,7 +145,7 @@ Geral
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
 
-**Utils**<br>
+### {utils}
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 git-flow
@@ -159,18 +159,18 @@ vim
 
 O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
-**SQL**<br>
+### {sql}
 sql
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
-**Clouds**<br>
+### {clouds}
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 O sub projeto tem como objetivo ser um ambiente de estudo e experimentação com as plataformas de computação em nuvem Google Cloud Platform (GCP) e Amazon Web Services (AWS), e adquirir habilidades práticas e teóricas em serviços de cloud, incluindo infraestrutura, serviços gerenciados, segurança, e boas práticas de DataOps.
 
-**Engenharia Dados**
+### {engenharia dados}
 O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 
 
