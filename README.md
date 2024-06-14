@@ -119,7 +119,7 @@ O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que
 
 ### {Colabs}
 
-O projeto tem como objetivo...
+O sub projeto tem como objetivo...
 
 
 ## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
