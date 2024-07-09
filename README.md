@@ -134,35 +134,13 @@ O projeto tem como objetivo permitir a orquestração, monitoramento e agendamen
 
 ### {python}
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
-Apache Beam
-Pycaret
-Pandasai
-Pandasql
-Unnitest
-Geral
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
 
 ### {utils}
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-git-flow
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-google-cloud-sdk
-ssh
-brew
-zsh
-vim
-
 O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 ### {sql}
-sql
-
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
 ### {clouds}
