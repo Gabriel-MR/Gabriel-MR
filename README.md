@@ -111,7 +111,7 @@ O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de
 
 # Trabalho de Conclusão de Curso
 
-## Engenharia de Computação - Instituto Mauá de Tecnologia
+## Engenharia de Computação - Instituto Mauá de Tecnologia, 2023
 Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciência de Dados e Inteligência Artificial.
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
