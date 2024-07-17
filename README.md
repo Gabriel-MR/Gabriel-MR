@@ -57,32 +57,6 @@ __gabrielmoreira
 
 # Projetos
 
-## [{skeleton_api}](https://github.com/Gabriel-MR/skeleton-api)
-O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
-
-
-## [{skeleton_web}](https://github.com/Gabriel-MR/skeleton-web)
-O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
-O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
-
-
-## [{nlp_llm_ml}](https://github.com/Gabriel-MR/nlp_llm_ml)
-
-### {chat_gpt}
-O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
-
-
-### {rag}
-O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
-
-### {Colabs}
-O sub projeto tem como objetivo...
-
-
-## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
-O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
-
-
 ## [{playground}](https://github.com/Gabriel-MR/playground)
 
 ### {python}
@@ -105,11 +79,38 @@ O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 O projeto tem como objetivo...
 
 
+## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
+O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
+
+
+## [{skeleton_api}](https://github.com/Gabriel-MR/skeleton-api)
+O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
+
+
+## [{nlp_llm_ml}](https://github.com/Gabriel-MR/nlp_llm_ml)
+
+### {chat_gpt}
+O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
+
+
+### {rag}
+O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
+
+### {Colabs}
+O sub projeto tem como objetivo...
+
+
+## [{skeleton_web}](https://github.com/Gabriel-MR/skeleton-web)
+O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
+O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
+
+
 ## [{otica}](https://github.com/Gabriel-MR/otica)
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 
 # Trabalho de Conclusão de Curso
+
 ## Engenharia de Computação - Instituto Mauá de Tecnologia
 Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciência de Dados e Inteligência Artificial.
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.
