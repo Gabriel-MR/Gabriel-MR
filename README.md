@@ -96,9 +96,6 @@ O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, 
 ### {rag}
 O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
-### {Colabs}
-O sub projeto tem como objetivo...
-
 
 ## [{skeleton_web}](https://github.com/Gabriel-MR/skeleton-web)
 O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
