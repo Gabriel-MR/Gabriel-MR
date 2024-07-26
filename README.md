@@ -76,11 +76,11 @@ O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 
 
 ## [{kubernetes}](https://github.com/Gabriel-MR/kubernetes)
-O projeto tem como objetivo...
+O projeto tem como objetivo o aprendizado e à prática de Kubernetes, abrangendo tanto o uso do Minikube local quanto a implementação de clusters na nuvem. Utilizando o kubectl para explorar diversos conceitos e ferramentas essenciais para a orquestração de contêineres, gerenciamento de pods, serviços, deployments.
 
 
 ## [{terraform}](https://github.com/Gabriel-MR/terraform)
-O projeto tem como objetivo...
+O projeto tem como objetivo aprender como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
 
 
 ## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
