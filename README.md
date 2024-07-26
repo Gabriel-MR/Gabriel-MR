@@ -79,6 +79,10 @@ O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 O projeto tem como objetivo...
 
 
+## [{terraform}](https://github.com/Gabriel-MR/terraform)
+O projeto tem como objetivo...
+
+
 ## [{airflow_midas}](https://github.com/Gabriel-MR/airflow)
 O projeto tem como objetivo permitir a orquestração, monitoramento e agendamento eficaz de tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações.
 
