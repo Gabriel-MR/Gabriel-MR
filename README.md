@@ -8,7 +8,7 @@ www.kibum.com.br/emoji
 -->
 **Languages, Frameworks, Platforms and Libraries**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL]
+![SQL]()
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -136,7 +136,7 @@ O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Loa
 
 
 ## [{dbt_football}](https://github.com/Gabriel-MR/dbt-football)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL]()
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
