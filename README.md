@@ -53,6 +53,10 @@ O sub projeto tem como objetivo ser um ambiente de estudo e experimentação com
 O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 
 
+##[pyspark](https://github.com/Gabriel-MR/pyspark)
+O projeto tem como objetivo o aprendizado e à prática...
+
+
 ## [{kubernetes}](https://github.com/Gabriel-MR/kubernetes)
 O projeto tem como objetivo o aprendizado e à prática de Kubernetes, abrangendo tanto o uso do Minikube local quanto a implementação de clusters na nuvem. Utilizando o kubectl para explorar diversos conceitos e ferramentas essenciais para a orquestração de contêineres, gerenciamento de pods, serviços, deployments.
 
