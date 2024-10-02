@@ -77,7 +77,7 @@ O projeto tem como objetivo o aprendizado e à prática: como criar uma imagem d
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-[![Azure DevOps]()
+![Azure DevOps]()
 
 O projeto tem como objetivo o aprendizado e à prática: como utilizar o git e git flow.
 
