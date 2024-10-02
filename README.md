@@ -82,13 +82,13 @@ O projeto tem como objetivo o aprendizado e à prática: como criar uma imagem d
 O projeto tem como objetivo o aprendizado e à prática: como utilizar o git e git flow.
 
 
-## [{skeleton_api}](https://github.com/Gabriel-MR/skeleton-api)
+## [{skeleton-api}](https://github.com/Gabriel-MR/skeleton-api)
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
 
 
 # Data Science
 
-## [{nlp_llm_ml}](https://github.com/Gabriel-MR/nlp-llm-ml)
+## [{nlp-llm-ml}](https://github.com/Gabriel-MR/nlp-llm-ml)
 
 ### {chat_gpt}
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -109,7 +109,7 @@ O sub projeto tem como objetio utilizar ml.
 
 # Desenvolvimento Web
 
-## [{skeleton_web}](https://github.com/Gabriel-MR/skeleton-web)
+## [{skeleton-web}](https://github.com/Gabriel-MR/skeleton-web)
 O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
 O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
@@ -126,24 +126,24 @@ Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciê
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.<br>
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
 
-## [{api_football}](https://github.com/Gabriel-MR/api-football)
+## [{api-football}](https://github.com/Gabriel-MR/api-football)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Load dos dados em .json para o Google Cloud Storage e posteriormente para o Google Cloud Bigquery via tabela externa; Transform dos dados via dbt (projeto: {dbt_football}).
+O projeto tem como objetivo realizar um ELT: Extract dos dados da rapid-api; Load dos dados em .json para o Google Cloud Storage e posteriormente para o Google Cloud Bigquery via tabela externa; Transform dos dados via dbt (projeto: {dbt-football}).
 
 
-## [{dbt_football}](https://github.com/Gabriel-MR/dbt-football)
+## [{dbt-football}](https://github.com/Gabriel-MR/dbt-football)
 ![SQL]()
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-O projeto tem como objetivo o uso do dbt: Transform dos dados do projeto {api_football}; Armazenar de forma segura as consultas utilizadas na criação de dws e data marts.
+O projeto tem como objetivo o uso do dbt: Transform dos dados do projeto {api-football}; Armazenar de forma segura as consultas utilizadas na criação de dws e data marts.
 
 
-## [{fixture_forecast}](https://github.com/Gabriel-MR/fixture-forecast)
+## [{fixture-forecast}](https://github.com/Gabriel-MR/fixture-forecast)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
@@ -152,5 +152,5 @@ Pycaret
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
 O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.<br>
-Integração entre os projetos {api_football}, {dbt_football}, {fixture_forecast}.
+Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
 
