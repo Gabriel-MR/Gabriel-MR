@@ -22,8 +22,6 @@ __gabrielmoreira
 
 ### {python}
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
 
@@ -54,14 +52,21 @@ O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 
 
 ## [{pyspark}](https://github.com/Gabriel-MR/pyspark)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 O projeto tem como objetivo o aprendizado e à prática...
 
 
 ## [{kubernetes}](https://github.com/Gabriel-MR/kubernetes)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 O projeto tem como objetivo o aprendizado e à prática de Kubernetes, abrangendo tanto o uso do Minikube local quanto a implementação de clusters na nuvem. Utilizando o kubectl para explorar diversos conceitos e ferramentas essenciais para a orquestração de contêineres, gerenciamento de pods, serviços, deployments.
 
 
 ## [{terraform}](https://github.com/Gabriel-MR/terraform)
+![Terraform](https://a11ybadges.com/badge?logo=terraform)
+
 O projeto tem como objetivo o aprendizado e à prática: como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
 
 
@@ -81,7 +86,7 @@ O projeto tem como objetivo o aprendizado e à prática: como criar uma imagem d
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Azure DevOps]()
+[![Azure DevOps]()](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 O projeto tem como objetivo o aprendizado e à prática: como utilizar o git e git flow.
 
