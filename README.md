@@ -5,6 +5,8 @@ www.kibum.com.br/stacks
 www.kibum.com.br/icons
 www.kibum.com.br/stats
 www.kibum.com.br/emoji
+
+https://badges.pages.dev/
 -->
 
 **Social**<br>
