@@ -64,12 +64,6 @@ O projeto tem como objetivo o aprendizado e à prática...
 O projeto tem como objetivo o aprendizado e à prática de Kubernetes, abrangendo tanto o uso do Minikube local quanto a implementação de clusters na nuvem. Utilizando o kubectl para explorar diversos conceitos e ferramentas essenciais para a orquestração de contêineres, gerenciamento de pods, serviços, deployments.
 
 
-## [{terraform}](https://github.com/Gabriel-MR/terraform)
-![Terraform](https://a11ybadges.com/badge?logo=terraform)
-
-O projeto tem como objetivo o aprendizado e à prática: como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
-
-
 ## [{airflow}](https://github.com/Gabriel-MR/airflow)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
@@ -89,6 +83,18 @@ O projeto tem como objetivo o aprendizado e à prática: como criar uma imagem d
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 O projeto tem como objetivo o aprendizado e à prática: como utilizar o git e git flow.
+
+
+## [{terraform}](https://github.com/Gabriel-MR/terraform)
+![Terraform](https://a11ybadges.com/badge?logo=terraform)
+
+O projeto tem como objetivo o aprendizado e à prática: como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
+
+
+## [{django}](https://github.com/Gabriel-MR/django)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square)
+
+O projeto tem como objetivo o aprendizado e à prática: 
 
 
 ## [{skeleton-api}](https://github.com/Gabriel-MR/skeleton-api)
