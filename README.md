@@ -86,7 +86,7 @@ O projeto tem como objetivo o aprendizado e à prática: como utilizar o git e g
 
 
 ## [{terraform}](https://github.com/Gabriel-MR/terraform)
-![Terraform](https://a11ybadges.com/badge?logo=terraform)
+![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat-square)
 
 O projeto tem como objetivo o aprendizado e à prática: como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
 
