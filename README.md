@@ -99,7 +99,7 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 O projeto tem como objetivo o aprendizado e à prática: 
 
 
-## [{skeleton-api}](https://github.com/Gabriel-MR/skeleton-api)
+## [{flask-skeleton-api}](https://github.com/Gabriel-MR/flask-skeleton-api)
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
 
 
