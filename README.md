@@ -75,7 +75,7 @@ O projeto tem como objetivo o aprendizado e à prática: como orquestrar, monito
 ## [{docker}](https://github.com/Gabriel-MR/docker)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-O projeto tem como objetivo o aprendizado e à prática: como criar uma imagem docker e manipular containers.
+O projeto tem como objetivo o aprendizado e à prática de como criar uma imagem docker e manipular containers.
 
 
 ## [{git}](https://github.com/Gabriel-MR/git)
