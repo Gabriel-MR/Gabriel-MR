@@ -96,7 +96,7 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 ## [{django}](https://github.com/Gabriel-MR/django)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square)
 
-O projeto tem como objetivo o aprendizado e à prática: 
+O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de EL para gerenciar fontes de dados.
 
 
 ## [{flask-skeleton-api}](https://github.com/Gabriel-MR/flask-skeleton-api)
