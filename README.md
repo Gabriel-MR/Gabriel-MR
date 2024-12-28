@@ -57,7 +57,7 @@ O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-O projeto tem como objetivo o aprendizado e à prática...
+O projeto tem como objetivo o aprendizado e a prática de manipulação e integração de dados utilizando PySpark. Ele inclui um módulo de extração e carregamento (EL) de dados provenientes de JDBC e de arquivos provenientes de uma landing zone, que foram gerados por meio de um script de integração com uma API. Os dados são armazenados em um Data Lake.
 
 
 ## [{kubernetes}](https://github.com/Gabriel-MR/kubernetes)
