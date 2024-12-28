@@ -95,6 +95,9 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 
 ## [{django}](https://github.com/Gabriel-MR/django)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de EL para gerenciar fontes de dados.
 
