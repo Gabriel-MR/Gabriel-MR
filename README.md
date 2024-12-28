@@ -25,7 +25,7 @@ __gabrielmoreira
 ### {python}
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, onde você pode explorar diferentes bibliotecas e técnicas em Python.
+O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes bibliotecas e técnicas em Python.
 
 ### {utils}
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
