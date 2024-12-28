@@ -84,7 +84,7 @@ O projeto tem como objetivo o aprendizado e à prática de como criar uma imagem
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-O projeto tem como objetivo o aprendizado e à prática: como utilizar o git e git flow.
+O projeto tem como objetivo o aprendizado e à prática de como utilizar o git e git flow.
 
 
 ## [{terraform}](https://github.com/Gabriel-MR/terraform)
