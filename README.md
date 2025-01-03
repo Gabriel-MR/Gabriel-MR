@@ -32,7 +32,7 @@ O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizad
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)
+![Collab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
@@ -62,6 +62,7 @@ O projeto tem como objetivo o aprendizado e a prática de manipulação e integr
 
 ## [{kubernetes}](https://github.com/Gabriel-MR/kubernetes)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 
 O projeto tem como objetivo o aprendizado e à prática de Kubernetes, abrangendo tanto o uso do Minikube local quanto a implementação de clusters na nuvem. Utilizando o kubectl para explorar diversos conceitos e ferramentas essenciais para a orquestração de contêineres, gerenciamento de pods, serviços, deployments.
 
