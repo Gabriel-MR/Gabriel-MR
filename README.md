@@ -69,7 +69,7 @@ O projeto tem como objetivo o aprendizado e à prática de Kubernetes, abrangend
 ## [{airflow}](https://github.com/Gabriel-MR/airflow)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-O projeto tem como objetivo o aprendizado e à prática: como orquestrar, monitorar e agendar tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações. O projeto pssui exemplos de TaskGroup para gerar tarefas dinâmicas, um DAG Factory para criar DAGs dinâmicas, e uma DAG para DBT usando Astronomer Cosmos.
+O projeto tem como objetivo o aprendizado e à prática: como orquestrar, monitorar e agendar tarefas, garantindo a execução confiável de processos de ETL, análise de dados e outras operações. O projeto pssui exemplos de TaskGroup para gerar tarefas dinâmicas, DAG Factory para criar DAGs dinâmicas, e DAG para DBT usando Astronomer Cosmos.
 
 
 ## [{docker}](https://github.com/Gabriel-MR/docker)
