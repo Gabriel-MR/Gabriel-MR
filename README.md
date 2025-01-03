@@ -102,6 +102,8 @@ O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Adm
 
 
 ## [{flask-skeleton-api}](https://github.com/Gabriel-MR/flask-skeleton-api)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
 
 
@@ -111,11 +113,17 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 
 ### {chat_gpt}
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
+O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, HTML, CSS E JS que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
 
 
 ### {rag}
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
 
@@ -129,13 +137,19 @@ O sub projeto tem como objetio utilizar ml.
 # Desenvolvimento Web
 
 ## [{skeleton-web}](https://github.com/Gabriel-MR/skeleton-web)
-O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. Arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
 O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
 
 # Gerais
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 
@@ -146,7 +160,6 @@ O projeto teve como objetivo a realização de previsões em tempo real dos resu
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
 
 ## [{api-football}](https://github.com/Gabriel-MR/api-football)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -172,4 +185,3 @@ Pycaret
 
 O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.<br>
 Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
-
