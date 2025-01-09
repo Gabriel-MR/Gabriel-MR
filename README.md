@@ -191,6 +191,7 @@ O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina
 Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
 
 # Trabalho de Conclusão de Curso V2
+
 ## [{airflow-fixture-forecast}](https://github.com/Gabriel-MR/airflow-fixture-forecast)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 RESTAPI
