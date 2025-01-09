@@ -192,8 +192,17 @@ Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast
 
 
 ## [{fixture-forecast}](https://github.com/Gabriel-MR/airflow-fixture-forecast)
-RESTAPI
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+RESTAPI
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
+
+O projeto tem como objetivo ser um refactor(v2) do TCC. Integrando as tarefas de ELT, e previsão de resultados de futebol em um único pipeline orquestrado com Airflow.
+
+Tasks airflow:
+1. api-football: Extrai dados da API-Football e carrega no PostgreSQL no schema public.
+2. dbt-football: Realiza a transformação dos dados extraídos usando dbt e salva os resultados no PostgreSQL no schema dbt.
+3. fixture-forecast: Utiliza técnicas de análise de dados e aprendizado de máquina para prever resultados de partidas de futebol.
+
+Esta nova versão reflete uma abordagem mais coesa e escalável, otimizando o fluxo de dados.
