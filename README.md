@@ -165,6 +165,8 @@ Análise Preditiva Esportiva com Ênfase Para O Futebol Usando Técnicas De Ciê
 O projeto teve como objetivo a realização de previsões em tempo real dos resultados de jogos de futebol, com atualizações minuto a minuto. Essas previsões são geradas através de uma rede neural MLP, que leva em consideração uma ampla gama de variáveis estatísticas relacionadas à partida.<br>
 Para isso, utilizamos uma API para coletar dados históricos das partidas, os quais foram posteriormente processados e transformados por meio da ferramenta DBT.
 
+## V1 2023
+
 ## [{api-football}](https://github.com/Gabriel-MR/api-football)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
@@ -190,7 +192,8 @@ Pycaret
 O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.<br>
 Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
 
-# Trabalho de Conclusão de Curso V2
+
+## V2 2025
 
 ## [{airflow-fixture-forecast}](https://github.com/Gabriel-MR/airflow-fixture-forecast)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
