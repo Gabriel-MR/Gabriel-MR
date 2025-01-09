@@ -190,8 +190,8 @@ Pycaret
 O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.<br>
 Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
 
-
-## [{fixture-forecast}](https://github.com/Gabriel-MR/airflow-fixture-forecast)
+# Trabalho de Conclusão de Curso V2
+## [{airflow-fixture-forecast}](https://github.com/Gabriel-MR/airflow-fixture-forecast)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 RESTAPI
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
