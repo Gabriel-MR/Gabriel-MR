@@ -185,9 +185,15 @@ O projeto tem como objetivo o uso do dbt: Transform dos dados do projeto {api-fo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
 O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.<br>
 Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
+
+
+## [{fixture-forecast}](https://github.com/Gabriel-MR/airflow-fixture-forecast)
+RESTAPI
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Pycaret
