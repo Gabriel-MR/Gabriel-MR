@@ -41,7 +41,6 @@ O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizad
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![Power Shell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-
 O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 ### {sql}
@@ -49,14 +48,18 @@ O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em fo
 
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
-### {clouds}
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-O sub projeto tem como objetivo ser um ambiente de estudo e experimentação com as plataformas de computação em nuvem Google Cloud Platform (GCP) e Amazon Web Services (AWS), e adquirir habilidades práticas e teóricas em serviços de cloud, incluindo infraestrutura, serviços gerenciados, segurança, e boas práticas de DataOps.
+### {plsql}
+O sub projeto tem como objetivo ser um abiente de experimentação e aprendizado, para explorar o PLSQL.
 
 ### {engenharia dados}
 O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
+
+
+## [{cloud}](https://github.com/Gabriel-MR/cloud)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+O projeto tem como objetivo ser um ambiente de estudo e experimentação com as plataformas de computação em nuvem Google Cloud Platform (GCP) e Amazon Web Services (AWS), e adquirir habilidades práticas e teóricas em serviços de cloud, incluindo infraestrutura, serviços gerenciados, segurança, e boas práticas de DataOps.
 
 
 ## [{pyspark}](https://github.com/Gabriel-MR/pyspark)
