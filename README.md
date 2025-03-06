@@ -21,7 +21,7 @@ Click me!<br>
 __gabrielmoreira
 
 
-# Data Engineer - DataOps - Platform
+# Data Engineer - DataOps - Platform - Analytics Engineer
 
 ## [{playground}](https://github.com/Gabriel-MR/playground)
 
@@ -44,8 +44,6 @@ O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizad
 O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 ### {sql}
-![SQL]()
-
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
 ### {plsql}
@@ -106,7 +104,6 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de EL para gerenciar fontes de dados.
 
 
@@ -129,18 +126,16 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 
 O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, HTML, CSS E JS que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
 
-
 ### {rag}
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
-
 ### {machine_learning}
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pycaret]()
+Pycaret
 
-O sub projeto tem como objetio utilizar ml.
+O sub projeto tem como objetivo utilizar ml.
 
 
 # Desenvolvimento Web
@@ -150,11 +145,16 @@ O sub projeto tem como objetio utilizar ml.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. Arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
+
 O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
 
 # Gerais
+
+## [{datasets-tests}](https://github.com/Gabriel-MR/datasets-tests)
+O projeto tem como objetivo fornecer datasets para testes e experimentações.
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -191,7 +191,8 @@ O projeto tem como objetivo o uso do dbt: Transform dos dados do projeto {api-fo
 Pycaret
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
-O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.<br>
+O projeto tem como objetivo Utilizar análise de dados e aprendizado de máquina para prever resultados de partidas de futebol em tempo real.
+
 Integração entre os projetos {api-football}, {dbt-football}, {fixture-forecast}.
 
 
