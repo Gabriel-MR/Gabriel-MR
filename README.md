@@ -47,7 +47,7 @@ O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em fo
 O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
 
 ### {plsql}
-O sub projeto tem como objetivo ser um abiente de experimentação e aprendizado, para explorar o PLSQL.
+O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar o PLSQL.
 
 ### {engenharia dados}
 O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
