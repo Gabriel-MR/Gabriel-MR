@@ -25,11 +25,6 @@ __gabrielmoreira
 
 ## [{playground}](https://github.com/Gabriel-MR/playground)
 
-### {python}
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes bibliotecas e técnicas em Python.
-
 ### {utils}
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -43,14 +38,18 @@ O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizad
 
 O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
-### {sql}
-O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl.
-
-### {plsql}
-O sub projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar o PLSQL.
-
 ### {engenharia dados}
 O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
+
+
+### [{python}](https://github.com/Gabriel-MR/python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+O Projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes bibliotecas e técnicas em Python.
+
+
+## [{sql}](https://github.com/Gabriel-MR/sql)
+O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl e PLSQL.
 
 
 ## [{cloud}](https://github.com/Gabriel-MR/cloud)
