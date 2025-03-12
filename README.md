@@ -134,7 +134,7 @@ O sub projeto tem como objetivo utilizar ml.
 
 # Desenvolvimento Web
 
-## [{skeleton-web}](https://github.com/Gabriel-MR/skeleton-web)
+## [{flask-skeleton-web}](https://github.com/Gabriel-MR/skeleton-web)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
