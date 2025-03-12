@@ -23,9 +23,7 @@ __gabrielmoreira
 
 # Data Engineer - DataOps - Platform - Analytics Engineer
 
-## [{playground}](https://github.com/Gabriel-MR/playground)
-
-### {utils}
+## [{utils}](https://github.com/Gabriel-MR/utils)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -36,13 +34,10 @@ __gabrielmoreira
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![Power Shell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-O sub projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
-
-### {engenharia dados}
-O sub projeto tem como objetivo arquivar pipelines e arquiteturas.
+O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
 
-### [{python}](https://github.com/Gabriel-MR/python)
+## [{python}](https://github.com/Gabriel-MR/python)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 O Projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes bibliotecas e técnicas em Python.
