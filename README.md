@@ -101,7 +101,7 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de EL para gerenciar fontes de dados.
 
 
-## [{flask-skeleton-api}](https://github.com/Gabriel-MR/flask-skeleton-api)
+## [{flask-api}](https://github.com/Gabriel-MR/flask-api)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
@@ -134,15 +134,15 @@ O sub projeto tem como objetivo utilizar ml.
 
 # Desenvolvimento Web
 
-## [{flask-skeleton-web}](https://github.com/Gabriel-MR/flask-skeleton-web)
+## [{flask-web}](https://github.com/Gabriel-MR/flask-web)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. Arquitetura simples e flexível, este skeleton fornece uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
+O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. Arquitetura simples e flexível, fornecendo uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
 
-O Skeleton possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
+O projeto possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
 
 # Gerais
