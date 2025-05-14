@@ -145,16 +145,6 @@ O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, p
 O projeto possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
 
 
-# Gerais
-
-## [{datasets-tests}](https://github.com/Gabriel-MR/datasets-tests)
-O projeto tem como objetivo fornecer datasets para testes e experimentações.
-
-## [{otica}](https://github.com/Gabriel-MR/otica)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
-
 ## [{backscan}](https://github.com/Gabriel-MR/backscan)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -164,6 +154,17 @@ Ngrok
 Versel
 
 O projeto tem como objetivo utilizar o pc local(Ubuntu) como servidor 
+
+
+# Gerais
+
+## [{datasets-tests}](https://github.com/Gabriel-MR/datasets-tests)
+O projeto tem como objetivo fornecer datasets para testes e experimentações.
+
+## [{otica}](https://github.com/Gabriel-MR/otica)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 
 # Trabalho de Conclusão de Curso
