@@ -155,6 +155,16 @@ O projeto tem como objetivo fornecer datasets para testes e experimentações.
 
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
+## [{backscan}](https://github.com/Gabriel-MR/backscan)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+Node
+Ngrok
+Versel
+
+O projeto tem como objetivo utilizar o pc local(Ubuntu) como servidor 
+
 
 # Trabalho de Conclusão de Curso
 Engenharia de Computação - Instituto Mauá de Tecnologia, 2023.<br>
