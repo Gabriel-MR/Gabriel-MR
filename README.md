@@ -7,6 +7,7 @@ www.kibum.com.br/stats
 www.kibum.com.br/emoji
 
 https://badges.pages.dev/
+
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
@@ -87,7 +88,12 @@ O projeto tem como objetivo o aprendizado e à prática de como criar uma imagem
 O projeto tem como objetivo o aprendizado e à prática de como utilizar o git e git flow.
 
 
-## [{terraform}](https://github.com/Gabriel-MR/terraform)
+## [{databricks}](https://github.com/Gabriel-MR/databricks)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+O projeto tem como objetivo demonstrar a utilização do ambiente Databricks para desenvolvimento de pipelines de dados com processamento distribuído (pyspark).
+
+
+## [{terraform}](
 ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat-square)
 
 O projeto tem como objetivo o aprendizado e à prática: como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
