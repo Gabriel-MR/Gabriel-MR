@@ -94,7 +94,7 @@ O projeto tem como objetivo o aprendizado e à prática de como utilizar o git e
 O projeto tem como objetivo demonstrar a utilização do ambiente Databricks para desenvolvimento de pipelines de dados com processamento distribuído (pyspark).
 
 
-## [{terraform}](
+## [{terraform}]((https://github.com/Gabriel-MR/terraform)
 ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat-square)
 
 O projeto tem como objetivo o aprendizado e à prática: como construir uma infraestrutura de Kubernetes escalável e segura usando Terraform na AWS.
