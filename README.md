@@ -45,7 +45,7 @@ O Projeto tem como objetivo ser um ambiente de experimentação e aprendizado, p
 
 
 ## [{sql}](https://github.com/Gabriel-MR/sql)
-SQL
+![SQL]
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 O projeto tem como objetivo ser um ambiente de experimentação e aprendizado, para explorar diferentes funções em SQl e PLSQL.
