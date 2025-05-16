@@ -221,7 +221,7 @@ RESTAPI
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
 
-O projeto tem como objetivo ser um refactor do TCC realizado em 2023. Integrando as tarefas de ELT, e previsão de resultados de futebol em um único pipeline orquestrado com Airflow.
+O projeto tem como objetivo ser um refactor do TCC realizado em 2023. Integrando as tarefas de ELT, e previsão de resultados de futebol em um único pipeline orquestrado com Airflow. Ficando centralizado em apenas 1 projeto.
 
 Tasks airflow:
 1. api-football: Extrai dados da API-Football e carrega no PostgreSQL no schema public.
