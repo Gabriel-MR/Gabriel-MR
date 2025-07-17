@@ -9,6 +9,8 @@ www.kibum.com.br/emoji
 https://badges.pages.dev/
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+https://profile-readme-generator.com/pt-BR
 -->
 
 **Social**<br>
