@@ -180,7 +180,9 @@ O projeto tem como objetivo fornecer datasets para testes e experimentações.
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição, escolha da lente, isso para visão simples e multifocais. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
 ## [{django-otica}](https://github.com/Gabriel-MR/django-otica)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de clientes e receitas.
 
