@@ -110,7 +110,7 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de EL para gerenciar fontes de dados.
+O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de ETL para gerenciar fontes de dados.
 
 
 ## [{flask-api}](https://github.com/Gabriel-MR/flask-api)
@@ -141,7 +141,7 @@ O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
 
-O sub projeto tem como objetivo utilizar ml.
+O sub projeto tem como objetivo utilizar ML.
 
 
 # Desenvolvimento Web
@@ -178,6 +178,11 @@ O projeto tem como objetivo fornecer datasets para testes e experimentações.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição, escolha da lente, isso para visão simples e multifocais. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
+
+## [{django-otica}](https://github.com/Gabriel-MR/django-otica)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de clientes e receitas.
 
 
 # Trabalho de Conclusão de Curso
