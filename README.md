@@ -99,6 +99,10 @@ O projeto tem como objetivo o aprendizado e à prática de como utilizar o git e
 O projeto tem como objetivo demonstrar a utilização do ambiente Databricks para desenvolvimento de pipelines de dados com processamento distribuído (pyspark).
 
 
+## [{ci-cd}](https://github.com/Gabriel-MR/ci-cd)
+O projeto tem como objetivo implementar uma esteira CI/CD para pipelines de dados, garantindo automação e validação no processo de desenvolvimento e implantação.
+
+
 ## [{terraform}](https://github.com/Gabriel-MR/terraform)
 ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat-square)
 
