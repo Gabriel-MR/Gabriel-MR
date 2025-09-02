@@ -136,7 +136,7 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-O sub projeto tem como objetivo criar uma interface de chat utilizando o Flask, HTML, CSS E JS que se conecta à API do ChatGPT para fornecer respostas inteligentes e interativas aos usuários. Além disso, o sistema é capaz de absorver conhecimento de arquivos externos, como regras de negócio, para enriquecer suas respostas e oferecer suporte a consultas específicas sobre esses arquivos externos.
+O sub projeto tem como objetivo utilizar a API do ChatGPT e alimentar a IA com dados proprietários por meio de arquivos externos.
 
 ### {rag}
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
