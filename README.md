@@ -103,7 +103,7 @@ O projeto tem como objetivo demonstrar a utilização do ambiente Databricks par
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 
-O projeto tem como objetivo implementar uma esteira CI/CD para pipelines de dados, garantindo automação e validação no processo de desenvolvimento e implantação.
+O projeto tem como objetivo implementar uma esteira CI/CD para pipelines de dados, garantindo automação e validação no processo de desenvolvimento.
 
 
 ## [{terraform}](https://github.com/Gabriel-MR/terraform)
