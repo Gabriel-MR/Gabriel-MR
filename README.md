@@ -103,6 +103,7 @@ O projeto tem como objetivo demonstrar a utilização do ambiente Databricks par
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=for-the-badge)
+![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 O projeto tem como objetivo implementar uma esteira CI/CD para pipelines de dados, garantindo automação e validação no processo de desenvolvimento.
 
