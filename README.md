@@ -100,8 +100,8 @@ O projeto tem como objetivo demonstrar a utilização do ambiente Databricks par
 
 
 ## [{ci-cd}](https://github.com/Gabriel-MR/ci-cd)
-![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
+![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 O projeto tem como objetivo implementar uma esteira CI/CD para pipelines de dados, garantindo automação e validação no processo de desenvolvimento e implantação.
 
 
@@ -139,7 +139,7 @@ O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask
 O sub projeto tem como objetivo utilizar a API do ChatGPT e alimentar a IA com dados proprietários por meio de arquivos externos.
 
 ### {rag}
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
@@ -181,7 +181,7 @@ O projeto tem como objetivo utilizar o pc local(Ubuntu) como servidor.
 O projeto tem como objetivo fornecer datasets para testes e experimentações.
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição, escolha da lente, isso para visão simples e multifocais. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
 
