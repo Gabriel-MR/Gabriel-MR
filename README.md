@@ -154,26 +154,17 @@ O sub projeto tem como objetivo utilizar ML.
 
 
 # Desenvolvimento Web
+O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de clientes e receitas.
 
-## [{flask-web}](https://github.com/Gabriel-MR/flask-web)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-O projeto tem como objetivo ser um esqueleto robusto para desenvolvimento web, projetado para simplificar e acelerar a criação de aplicativos web usando Flask, HTML, CSS E JS. Arquitetura simples e flexível, fornecendo uma base sólida para construir uma variedade de aplicações web, desde simples sites estáticos até aplicações web dinâmicas e complexas.
-
-O projeto possui uma página principal, index, que inclui um formulário acessível através do painel /admin, requerendo autenticação para acesso pela tela de /login.
-
-
-## [{gabriel-bruna}](https://github.com/Gabriel-MR/gabriel-bruna)
+## [{games-hub}](https://github.com/Gabriel-MR/games-hub)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
 
-O projeto tem como objetivo
+O projeto tem como objetivo ser um gerenciador de coleção de jogos com autocomplete, capas, gêneros automáticos e autenticação multi-usuário.
 
 
 ## [{backscan}](https://github.com/Gabriel-MR/backscan)
@@ -186,33 +177,20 @@ O projeto tem como objetivo
 O projeto tem como objetivo utilizar o pc local(Ubuntu) como servidor.
 
 
-# Gerais
-
-## [{datasets-tests}](https://github.com/Gabriel-MR/datasets-tests)
-O projeto tem como objetivo fornecer datasets para testes e experimentações.
-
-## [{otica}](https://github.com/Gabriel-MR/otica)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-
-O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição, escolha da lente, isso para visão simples e multifocais. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
-
-## [{django-otica}](https://github.com/Gabriel-MR/django-otica)
-![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de clientes e receitas.
-
-## [{games-hub}](https://github.com/Gabriel-MR/games-hub)
+## [{gabriel-bruna}](https://github.com/Gabriel-MR/gabriel-bruna)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
 
-O projeto tem como objetivo ser um gerenciador de coleção de jogos com autocomplete, capas, gêneros automáticos e autenticação multi-usuário.
+O projeto tem como objetivo
+
+
+# Gerais
+
+## [{datasets-tests}](https://github.com/Gabriel-MR/datasets-tests)
+O projeto tem como objetivo fornecer datasets para testes e experimentações.
 
 
 # Trabalho de Conclusão de Curso
@@ -267,5 +245,15 @@ Tasks airflow:
 
 Esta nova versão reflete uma abordagem mais coesa e escalável, otimizando o fluxo de dados.
 
+# Ótica
 
-https://github.com/Gabriel-MR/zero-to-hero-api
+## [{otica}](https://github.com/Gabriel-MR/otica)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição, escolha da lente, isso para visão simples e multifocais. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
+
+## [{django-otica}](https://github.com/Gabriel-MR/django-otica)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
