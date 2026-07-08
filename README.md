@@ -122,7 +122,7 @@ O projeto tem como objetivo o aprendizado e à prática: como construir uma infr
 O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Admin para criar um ambiente de cadastro de processos de ETL para gerenciar fontes de dados.
 
 
-## [{flask-api}](https://github.com/Gabriel-MR/flask-api)
+## [{flask}](https://github.com/Gabriel-MR/flask)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 O projeto tem como objetivo ser um esqueleto para criação de APIs usando Flask. Ele fornece uma estrutura básica e modular para desenvolvimento rápido e fácil de APIs web em Python. Com uma arquitetura simples e flexível, este esqueleto permite a rápida implementação de endpoints, autenticação, autorização e muito mais. Faça forks deste repositório para iniciar novos projetos de API com facilidade e eficiência.
