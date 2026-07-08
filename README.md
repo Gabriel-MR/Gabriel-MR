@@ -266,3 +266,6 @@ Tasks airflow:
 3. fixture-forecast: Utiliza técnicas de análise de dados e aprendizado de máquina para prever resultados de partidas de futebol.
 
 Esta nova versão reflete uma abordagem mais coesa e escalável, otimizando o fluxo de dados.
+
+
+https://github.com/Gabriel-MR/zero-to-hero-api
