@@ -16,7 +16,6 @@ https://profile-readme-generator.com/pt-BR
 **Social**<br>
 Click me!<br>
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.moreirasilvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ms/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__gabrielmoreira/)
@@ -251,6 +250,7 @@ Esta nova versão reflete uma abordagem mais coesa e escalável, otimizando o fl
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição, escolha da lente, isso para visão simples e multifocais. Garantindo que as receitas de óculos sejam precisas para serem enviadas ao laboratório.
+
 
 ## [{django-otica}](https://github.com/Gabriel-MR/django-otica)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
