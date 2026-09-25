@@ -40,6 +40,7 @@ O projeto tem como objetivo ser uma fonte centralizada de conhecimento em format
 
 ## [{agents-skills}](https://github.com/Gabriel-MR/agents-skills)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
 O Projeto tem como objetivo
 
 
