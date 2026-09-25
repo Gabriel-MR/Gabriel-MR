@@ -38,6 +38,10 @@ __gabrielmoreira
 
 O projeto tem como objetivo ser uma fonte centralizada de conhecimento em formato de wiki, composta por vários markdowns sobre uma ampla variedade de temas.
 
+## [{agents-skills}](https://github.com/Gabriel-MR/agents-skills)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+O Projeto tem como objetivo
+
 
 ## [{python}](https://github.com/Gabriel-MR/python)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
@@ -131,7 +135,7 @@ O projeto tem como objetivo o aprendizado e à prática. Utilizando o Django Adm
 
 ## [{nlp-llm-ml}](https://github.com/Gabriel-MR/nlp-llm-ml)
 
-### {chat_gpt}
+### {chat-gpt}
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -145,7 +149,7 @@ O sub projeto tem como objetivo utilizar a API do ChatGPT e alimentar a IA com d
 
 O sub projeto tem como objetivo utilizar RAG (Retrieve Augmented Generation) que é uma excelente maneira de criar aplicações com dados proprietários, além de ter maior domínio em relação ao tipo de informação utilizada. Esse tipo de técnica habilita uma série de aplicações, com um custo significativamente menor em comparação a treinar um modelo especializado.
 
-### {machine_learning}
+### {machine-learning}
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 Pycaret
 
