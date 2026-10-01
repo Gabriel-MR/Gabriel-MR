@@ -235,7 +235,6 @@ O projeto tem como objetivo realizar um ELT: Extract dos dados da RapidAPI; Load
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-3366CC?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 O projeto tem como objetivo o uso do dbt: Transform dos dados do projeto {api-football}; armazenar de forma segura as consultas utilizadas na criação de DWHs e data marts.
 
@@ -274,6 +273,5 @@ Esta nova versão reflete uma abordagem mais coesa e escalável, otimizando o fl
 
 ## [{otica}](https://github.com/Gabriel-MR/otica)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Optics](https://img.shields.io/badge/Optics-1F4E79?style=for-the-badge&logoColor=white)
 
 O projeto tem como objetivo auxiliar óticas no cálculo preciso das receitas de óculos, realizando tarefas como correção de sinal, adição do grau, transposição e escolha da lente, para diferentes tipos de lentes.
