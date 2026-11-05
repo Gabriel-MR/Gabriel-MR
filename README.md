@@ -171,7 +171,11 @@ O sub projeto tem como objetivo utilizar técnicas de Machine Learning.
 
 
 # Desenvolvimento Web
-O projeto tem como objetivo o aprendizado e à prática, utilizando o Django Admin para criar um ambiente de cadastro de clientes e receitas.
+
+## [{my-envs}](https://github.com/Gabriel-MR/my-envs)
+
+Repositório centralizado para armazenar e gerenciar arquivos de configuração de ambiente (.env) dos meus projetos pessoais.
+
 
 ## [{games-hub}](https://github.com/Gabriel-MR/games-hub)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
